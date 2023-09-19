@@ -1,4 +1,4 @@
-# godot-game
+# Void Walker
 Code Platoon Uniform Group Project:
 Project: Top-Down Rogue-like 2D RPG game made with the Godot Game Engine and GDScript
 
